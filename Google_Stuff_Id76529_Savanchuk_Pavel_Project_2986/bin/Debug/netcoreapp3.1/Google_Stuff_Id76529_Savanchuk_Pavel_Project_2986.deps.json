@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Google_Stuff_Id76529_Savanchuk_Pavel_Project_2986/1.0.0": {
+        "runtime": {
+          "Google_Stuff_Id76529_Savanchuk_Pavel_Project_2986.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Google_Stuff_Id76529_Savanchuk_Pavel_Project_2986/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
